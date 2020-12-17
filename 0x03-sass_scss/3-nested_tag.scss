@@ -1,11 +1,8 @@
 /* Change margin and padding */
 
-$mg: 0;
-$pd: 10px;
-
 body {
-  margin: $mg;
-  padding: $mg;
+  margin: 0px;
+  padding: 0px; }
   p {
-      margin: $pd; }
+    margin: 10px; }
 }
