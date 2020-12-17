@@ -1,0 +1,11 @@
+/* Change margin and padding */
+
+$mg: 0;
+$pd: 10px;
+
+body {
+  margin: $mg;
+  padding: $mg;
+  p {
+      margin: $pd; }
+}
