@@ -71,7 +71,7 @@ template{display:none}
 /*# sourceMappingURL=normalize.min.css.map */
 
 *, *:before, *:after {
-  box-sizing: content-box|border-box|initial|inherit;
+  box-sizing: border-box;
 }
 
 html {
